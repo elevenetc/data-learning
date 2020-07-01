@@ -8,7 +8,7 @@
 			"tags": ["shell", "unix", "utils"],
 			"title": "Command to get time in milliseconds",
 			"url": "https://stackoverflow.com/questions/16548528/command-to-get-time-in-milliseconds",
-			"gained": "Default mac date shell util doesn't provide time in ms"
+			"gained": ["Default mac date shell util doesn't provide time in ms"]
 		},
 		{
 			"date": 1593637001,
@@ -17,7 +17,16 @@
 			"tags": ["backend", "redis"],
 			"title": "The end of the Redis adventure",
 			"url": "http://antirez.com/news/133",
-			"gained": "writing code vs supporting code dilemma\nDevelopment started more than 10 years ago"
+			"gained": ["writing code vs supporting code dilemma", "Development started more than 10 years ago"]
+		},
+		{
+			"date": 1593638116,
+			"duration": 360,
+			"type": "article",
+			"tags": ["kotlin", "code-quality"],
+			"title": "With the receiver in scope",
+			"url": "https://medium.com/@elizarov/with-the-receiver-in-scope-7b52bdcca6e9",
+			"quotes":["Concision is the chief Kotlin’s motto", "The key quality of the code that we are looking to achieve is not concision, but readability"]
 		}
 	]
 }
