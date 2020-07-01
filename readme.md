@@ -1,3 +1,6 @@
 # Leardning data
+## Types
+`stackoverflow`, `article`
+
 ## Tags
-`stackoverflow`, `articles`
+`shell`, `unix`, `utils`, `backend`, `redis`

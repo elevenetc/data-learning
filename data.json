@@ -3,14 +3,16 @@
 	"records": [
 		{
 			"date": 1593636073,
+			"duration": 60,
 			"type": "stackoverflow",
-			"tags": ["shell", "unit", "utils"],
+			"tags": ["shell", "unix", "utils"],
 			"title": "Command to get time in milliseconds",
 			"url": "https://stackoverflow.com/questions/16548528/command-to-get-time-in-milliseconds",
 			"gained": "Default mac date shell util doesn't provide time in ms"
 		},
 		{
 			"date": 1593637001,
+			"duration": 180,
 			"type": "article",
 			"tags": ["backend", "redis"],
 			"title": "The end of the Redis adventure",
