@@ -10,7 +10,7 @@
 			"gained": "Default mac date shell util doesn't provide time in ms"
 		},
 		{
-			"date": 1593636073,
+			"date": 1593637001,
 			"type": "article",
 			"tags": ["backend", "redis"],
 			"title": "The end of the Redis adventure",
