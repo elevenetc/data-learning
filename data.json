@@ -35,7 +35,7 @@
 			"tags": ["android", "news", "google-play", "google-play-services", "android-11"],
 			"title": "AndroidDevPodcast:113",
 			"url": "https://pca.st/yzx3uvga",
-			"quotes":["android-11: adb now is incremental. Useful for large game apks. Works only on Pixel phone", "android-11: adb wifi debug is updated: solved problems, easier to use", "android-11: security audit library", "reason of google-maps crash: google-services updated when app started > app crashes > google released google-services fix > app starts and tries to update google-services, but crashes", "android-studio: dagger graph review", "google-play: introduced policy of subscriptions screen", "google-play: updated policy of location"]
+			"gained":["android-11: adb now is incremental. Useful for large game apks. Works only on Pixel phone", "android-11: adb wifi debug is updated: solved problems, easier to use", "android-11: security audit library", "reason of google-maps crash: google-services updated when app started > app crashes > google released google-services fix > app starts and tries to update google-services, but crashes", "android-studio: dagger graph review", "google-play: introduced policy of subscriptions screen", "google-play: updated policy of location"]
 		}
 	]
 }
