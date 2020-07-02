@@ -36,6 +36,33 @@
 			"title": "AndroidDevPodcast:113",
 			"url": "https://pca.st/yzx3uvga",
 			"gained":["android-11: adb now is incremental. Useful for large game apks. Works only on Pixel phone", "android-11: adb wifi debug is updated: solved problems, easier to use", "android-11: security audit library", "reason of google-maps crash: google-services updated when app started > app crashes > google released google-services fix > app starts and tries to update google-services, but crashes", "android-studio: dagger graph review", "google-play: introduced policy of subscriptions screen", "google-play: updated policy of location"]
+		},
+		{
+			"date": 1591103940,
+			"duration": 120,
+			"type": "article",
+			"tags": ["android", "android-11"],
+			"title": "Android 11 Changes",
+			"url": "https://proandroiddev.com/new-android-r-important-changes-92d64b0d872b",
+			"gained":["Android 9: you were available to use a camera and microphone only in the foreground", "Android 11: you need to write service type", "Android 11: asyncmtask is deprecated", "Android 11: getting phone number data requires permission"]
+		},
+		{
+			"date": 1591104900,
+			"duration": 60,
+			"type": "twitter",
+			"tags": ["remote"],
+			"title": "Working remotely",
+			"url": "https://twitter.com/jmgilgado/status/1277985738437648384",
+			"gained":["Call and talk if you worried about something, dont keep it as it is", "Be more and explicitly transparent", "Writing clarity matters", "Aligning goals often", "Ask if you want/need something"]
+		},
+		{
+			"date": 1591104420,
+			"duration": 600,
+			"type": "article",
+			"tags": ["android", "events", "streams", "acrhitecture"],
+			"title": "Thoughts about Event Handling on Android",
+			"url": "https://zsmb.co/thoughts-about-event-handling-on-android/",
+			"gained":["some time of events (states) shouldnt be stored as state: temp error message, navigation event as it might be repeated (when screen is rotated for example)", "solutions: one stream of events, two streams, multiple observers", "If we want to notify the View about something just once, we can’t place that data in the ViewState"]
 		}
 	]
 }
