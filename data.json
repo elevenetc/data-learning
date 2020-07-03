@@ -63,6 +63,15 @@
 			"title": "Thoughts about Event Handling on Android",
 			"url": "https://zsmb.co/thoughts-about-event-handling-on-android/",
 			"gained":["some time of events (states) shouldnt be stored as state: temp error message, navigation event as it might be repeated (when screen is rotated for example)", "solutions: one stream of events, two streams, multiple observers", "If we want to notify the View about something just once, we can’t place that data in the ViewState"]
+		},
+		{
+			"date": 1593815383,
+			"duration": 1200,
+			"type": "article",
+			"tags": ["android", "gradle", "build", "ci", "bazel"],
+			"title": "Gradle vs Bazel for JVM Projects",
+			"url": "https://blog.gradle.org/gradle-vs-bazel-jvm",
+			"gained":["ways to improve build time 1) remote build cache of previously compiled modules. 2) incremental builds. 3) distributed build: one module compiles by multiple machines and then combined", "remote build cache doesn't offer befirt for single module (monolith) projects, because requires rebuilding all sources from scratch", "gradle is focused and optimized for jvm projects, bazel provides wide range of build types, delegating details to particular platform tools like javac. Hence gradle for example has better incremental build time", "bazel has *.bazel files per each java package + build.bazel; gradle has just 2 files: build.gradle and setting.gradle => bazel requires significantly more files", "gradle provides much better dependencies manemeng and dependencies issues resolution, on bazel side lots of dependencies issues must be resolved manually"]
 		}
 	]
 }
