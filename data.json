@@ -72,6 +72,21 @@
 			"title": "Gradle vs Bazel for JVM Projects",
 			"url": "https://blog.gradle.org/gradle-vs-bazel-jvm",
 			"gained":["ways to improve build time 1) remote build cache of previously compiled modules. 2) incremental builds. 3) distributed build: one module compiles by multiple machines and then combined", "remote build cache doesn't offer befirt for single module (monolith) projects, because requires rebuilding all sources from scratch", "gradle is focused and optimized for jvm projects, bazel provides wide range of build types, delegating details to particular platform tools like javac. Hence gradle for example has better incremental build time", "bazel has *.bazel files per each java package + build.bazel; gradle has just 2 files: build.gradle and setting.gradle => bazel requires significantly more files", "gradle provides much better dependencies manemeng and dependencies issues resolution, on bazel side lots of dependencies issues must be resolved manually"]
+		},
+		{
+			"date": 1593889257,
+			"duration": 1800,
+			"type": "podcast",
+			"tags": ["android", "android-11"],
+			"title": "AndroidDevPodcast:114",
+			"url": "https://pca.st/xpksppcm",
+			"gained":["some app works in unexpected ways on 120hz screens. Mostly because of custom animation low level animation logic > test more + from android 11 it's possible to define hz for your app", "dynamic feature module delivery is recommended to be used with app which have heavy libraries which can be extracted into separate module. In particular it can be useful for games, because initial part of game can be very minimal and later stages of game can be downloaded later", "onboarding a/b tests result: before 80% of users were skiping onboarding, then 20%. Changed: just pictures and some text, then configuration and setting up of the app", "there is library from jitpack to handle screen states of foldable devices", "since Android 11 toast changes: callback of hiding/showing, can be showed only when app is in foreground, google recommends to show only texts and no custom views and eventually migrate to snackbar", "Android 11: new activity result api, prevous will be deprecated", "Open source of samples of using of corotines"],
+			"references": [
+				{
+					"name": "coroutines sample",
+					"url": "https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android"
+				}
+			]
 		}
 	]
 }
