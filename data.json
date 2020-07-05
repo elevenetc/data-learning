@@ -92,11 +92,21 @@
 			"date": 1593985411,
 			"duration": 180,
 			"type": "article",
-			"tags": ["acrhitecture"],
+			"tags": ["acrhitecture", "team-management"],
 			"title": "PresentationDomainDataLayering",
 			"url": "https://martinfowler.com/bliki/PresentationDomainDataLayering.html",
 			"quotes":["Developers don't have to be full-stack but teams should be."],
 			"gained":["advantage of separating application into layers: reduce the scope of my attention by allowing me to think about the three topics relatively independently", "substituotion of layers rarely happens, so shouldn't be the main goal of modularisation", "while growing architecture should be expanded horizontally, but not vertically"]
+		},
+		{
+			"date": 1593985825,
+			"duration": 600,
+			"type": "article",
+			"tags": ["functional-programming", "code-quality"],
+			"title": "What Functional Programming Is, What it Isn't, and Why it Matters",
+			"url": "https://martinfowler.com/bliki/PresentationDomainDataLayering.html",
+			"quotes":["functional programming is a hypothesis about software quality: that software that can be understood before it is run and is built of small reusable components is easier to write and maintain", "Shared mutable state is out", "functional programming—that the real goals are local reasoning and composition"],
+			"gained":["scoped mutation is ok: internal function state or any other isolated state"]
 		}
 	]
 }
