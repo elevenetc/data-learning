@@ -107,6 +107,15 @@
 			"url": "https://martinfowler.com/bliki/PresentationDomainDataLayering.html",
 			"quotes":["functional programming is a hypothesis about software quality: that software that can be understood before it is run and is built of small reusable components is easier to write and maintain", "Shared mutable state is out", "functional programming—that the real goals are local reasoning and composition"],
 			"gained":["scoped mutation is ok: internal function state or any other isolated state"]
+		},
+		{
+			"date": 1594071765,
+			"duration": 180,
+			"type": "article",
+			"tags": ["android", "android-11", "system"],
+			"title": "System hardening in Android 11",
+			"url": "https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html",
+			"gained":["Android 11: Scudo replaces jemalloc as the default native allocator for Android"]
 		}
 	]
 }
