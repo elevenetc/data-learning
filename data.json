@@ -116,6 +116,15 @@
 			"title": "System hardening in Android 11",
 			"url": "https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html",
 			"gained":["Android 11: Scudo replaces jemalloc as the default native allocator for Android"]
+		},
+		{
+			"date": 1594245278,
+			"duration": 60,
+			"type": "article",
+			"tags": ["cpu", "system"],
+			"title": "Zero-copy",
+			"url": "https://en.wikipedia.org/wiki/Zero-copy",
+			"gained":["System operation(s) which allow to copy data without distracting CPU and swithing context"]
 		}
 	]
 }
