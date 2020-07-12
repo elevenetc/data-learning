@@ -134,6 +134,15 @@
 			"title": "A Great Way to do Presenters",
 			"url": "https://cashapp.github.io/2020-06-09/android-presenters",
 			"gained":["Presenter as ObservableTransformer"]
+		},
+		{
+			"date": 1594590936,
+			"duration": 180,
+			"type": "language",
+			"tags": ["dutch"],
+			"title": "New words",
+			"gained":["vertellen", "kijken"]
 		}
+
 	]
 }
