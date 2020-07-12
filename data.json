@@ -125,6 +125,15 @@
 			"title": "Zero-copy",
 			"url": "https://en.wikipedia.org/wiki/Zero-copy",
 			"gained":["System operation(s) which allow to copy data without distracting CPU and swithing context"]
+		},
+		{
+			"date": 1594590936,
+			"duration": 180,
+			"type": "article",
+			"tags": ["architecture"],
+			"title": "A Great Way to do Presenters",
+			"url": "https://cashapp.github.io/2020-06-09/android-presenters",
+			"gained":["Presenter as ObservableTransformer"]
 		}
 	]
 }
