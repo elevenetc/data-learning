@@ -142,6 +142,15 @@
 			"tags": ["dutch"],
 			"title": "New words",
 			"gained":["vertellen", "kijken", "opnemen", "inlegen", "moet"]
+		},
+		{
+			"date": 1594601322,
+			"duration": 300,
+			"type": "video",
+			"tags": ["productivity"],
+			"title": "Why I'm so Productive (as a millionaire)",
+			"url": "https://www.youtube.com/watch?v=Hoi647vShJo",
+			"gained":["fb: impact, direction, people, engineering", "move fast n be bold: bigger lifechanging opportunities", "the journey is 1% finished"]
 		}
 
 	]
