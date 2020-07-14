@@ -151,7 +151,25 @@
 			"title": "Why I'm so Productive (as a millionaire)",
 			"url": "https://www.youtube.com/watch?v=Hoi647vShJo",
 			"gained":["fb: impact, direction, people, engineering", "move fast n be bold: bigger lifechanging opportunities", "the journey is 1% finished"]
+		},
+		{
+			"date": 1594676332,
+			"duration": 300,
+			"type": "article",
+			"tags": ["andoid", "android-11"],
+			"title": "Android 11 Storage FAQ",
+			"url": "https://medium.com/androiddevelopers/android-11-storage-faq-78cefea52b7c",
+			"gained":["Storage Access Framework(system ui picker) is enforced since Android 11", "Google grants full memory for specific apps", "scoped storage - scoped access into external storage: app directory + media by MediaStore"],
+			"references": [
+				{
+					"name": "What is Scope Storage",
+					"url": "https://www.androidcentral.com/what-scoped-storage"
+				},
+				{
+					"name":"Open files using storage access framework",
+					"url":"https://developer.android.com/guide/topics/providers/document-provider"
+				}
+			]
 		}
-
 	]
 }
