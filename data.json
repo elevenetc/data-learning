@@ -170,6 +170,15 @@
 					"url":"https://developer.android.com/guide/topics/providers/document-provider"
 				}
 			]
+		},
+		{
+			"date": 1594850093,
+			"duration": 180,
+			"type": "article",
+			"tags": ["android", "performance"],
+			"title": "Improving app startup with I/O prefetching",
+			"url": "https://medium.com/androiddevelopers/improving-app-startup-with-i-o-prefetching-62fbdb9c9020",
+			"gained":["Android 11: IORap, a new feature which greatly improves application startup times", "You can help IORap out by invoking the ReportFullyDrawn callback when your app completes its startup."]
 		}
 	]
 }
