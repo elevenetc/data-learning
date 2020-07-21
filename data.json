@@ -179,6 +179,33 @@
 			"title": "Improving app startup with I/O prefetching",
 			"url": "https://medium.com/androiddevelopers/improving-app-startup-with-i-o-prefetching-62fbdb9c9020",
 			"gained":["Android 11: IORap, a new feature which greatly improves application startup times", "You can help IORap out by invoking the ReportFullyDrawn callback when your app completes its startup."]
+		},
+		{
+			"date": 1595338798,
+			"duration": 180,
+			"type": "article",
+			"tags": ["android", "native", "kotlin", "memory-management"],
+			"title": "Kotlin/Native Memory Management Roadmap",
+			"url": "https://blog.jetbrains.com/kotlin/2020/07/kotlin-native-memory-management-roadmap/",
+			"gained":[""]
+		},
+		{
+			"date": 1595338798,
+			"duration": 60,
+			"type": "article",
+			"tags": ["shell", "zsh"],
+			"title": "How to Configure your macOs Terminal with Zsh like a Pro",
+			"url": "https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/",
+			"gained":["update ohmyzsh cmd: upgrade_oh_my_zsh"]
+		},
+		{
+			"date": 1595339764,
+			"duration": 30,
+			"type": "stackoverflow",
+			"tags": ["shell", "vim"],
+			"title": "Enable vim syntax hightlist permanently",
+			"url": "https://stackoverflow.com/questions/13405149/permanent-syntax-on-switch-for-vim-over-os-x-terminal",
+			"gained":["Put 'syntax on' in your '~/.vimrc' file."]
 		}
 	]
 }
