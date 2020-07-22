@@ -206,6 +206,15 @@
 			"title": "Enable vim syntax hightlist permanently",
 			"url": "https://stackoverflow.com/questions/13405149/permanent-syntax-on-switch-for-vim-over-os-x-terminal",
 			"gained":["Put 'syntax on' in your '~/.vimrc' file."]
+		},
+		{
+			"date": 1595457815,
+			"duration": 60,
+			"type": "article",
+			"tags": ["kotlin", "kotlin-native"],
+			"title": "Kotlin/Native Concurrency Changes…",
+			"url": "https://dev.to/touchlab/kotlin-native-concurrency-changes-p3e",
+			"gained":["JVM and native memory models are different > different multithread memory handling implementation"]
 		}
 	]
 }
