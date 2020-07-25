@@ -215,6 +215,33 @@
 			"title": "Kotlin/Native Concurrency Changes…",
 			"url": "https://dev.to/touchlab/kotlin-native-concurrency-changes-p3e",
 			"gained":["JVM and native memory models are different > different multithread memory handling implementation"]
+		},
+		{
+			"date": 1595665446,
+			"duration": 180,
+			"type": "article",
+			"tags": ["android", "background"],
+			"title": "Use WorkManager for immediate background execution",
+			"url": "https://medium.com/androiddevelopers/use-workmanager-for-immediate-background-execution-a57db502603d",
+			"gained":["We recommend you use WorkManager to execute long running immediate tasks."],
+			"references": [
+				{
+					"name": "WorkManager sample",
+					"url": "https://github.com/android/architecture-components-samples/tree/master/WorkManagerSample"
+				},
+				{
+					"name": "Blog series to guide you from the basics to advanced features of WorkManager",
+					"url": "https://medium.com/androiddevelopers/introducing-workmanager-2083bcfc4712"
+				},
+				{
+					"name": "Guide to background processing",
+					"url": "https://developer.android.com/guide/background"
+				},
+				{
+					"name": "Advanced WorkManager guide for long running workers",
+					"url": "https://developer.android.com/topic/libraries/architecture/workmanager/advanced/long-running"
+				}
+			]
 		}
 	]
 }
