@@ -242,6 +242,42 @@
 					"url": "https://developer.android.com/topic/libraries/architecture/workmanager/advanced/long-running"
 				}
 			]
+		},
+		{
+			"date": 1595873287,
+			"duration": 1200,
+			"type": "article",
+			"tags": ["express.js", "backend", "performance"],
+			"title": "Production best practices: performance and reliability",
+			"url": "https://expressjs.com/en/advanced/best-practice-performance.html",
+			"gained":["Gzip compressing can greatly decrease the size of the response body and hence increase the speed of a web app.", "Use async api/functions only. Sync might be used on startup. To trace sync api calls use --trace-sync-io command-line flag", "console.log and console.error are sync, so no usage in production", "use module debug to log handle logging properly in dev environment", "use module Winston or Bunyan to log app activity in production", "One thing you should not do is to listen for the uncaughtException event as it breaks default behavour, hence process will continue to run despite the exception", "Use a tool such as JSHint or JSLint to help you find implicit exceptions", "Set NODE_ENV to production: enables caches, less verbose error messages > gread performance improvement", "Checking process.env.NODE_ENV cuts performance", "In dev start app with cmd, but in production use process manager like PM2"],
+			"references":[
+				{
+					"name":"Comparing Winston and Bunyan Node.js Logging",
+					"url":"https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/"
+				},
+				{
+					"name":"Error Handling in Node.js",
+					"url":"https://www.joyent.com/node-js/production/design/errors"
+				},
+				{
+					"name":"Building Robust Node Applications: Error Handling",
+					"url":"https://strongloop.com/strongblog/robust-node-applications-error-handling/"
+				},
+				{
+					"name":"Asynchronous Error Handling in Express with Promises, Generators and ES7",
+					"url":"https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/#cleaner-code-with-generators"
+				},
+				{
+					"name":"Upstart Intro, Cookbook and Best Practices",
+					"url":"http://upstart.ubuntu.com/cookbook/#environment-variables"
+				},
+				{
+					"name":"Process managers for Express apps",
+					"url":"https://expressjs.com/en/advanced/pm.html"
+				}
+			]
+
 		}
 	]
 }
