@@ -278,6 +278,14 @@
 				}
 			]
 
+		},
+		{
+			"date": 1595891409,
+			"duration": 10,
+			"type": "language",
+			"tags": ["dutch"],
+			"title": "New words",
+			"gained":["buiten", "binnen","op dit moment"]
 		}
 	]
 }
