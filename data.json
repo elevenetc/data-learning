@@ -286,6 +286,15 @@
 			"tags": ["dutch"],
 			"title": "New words",
 			"gained":["buiten", "binnen","op dit moment"]
+		},
+		{
+			"date": 1595972483,
+			"duration": 60,
+			"type": "article",
+			"tags": ["android", "location"],
+			"title": "Accessing device location using SIM Card",
+			"url": "https://medium.com/scalereal/%EF%B8%8Faccessing-device-location-using-sim-card-%EF%B8%8F-6cdb15645bef",
+			"gained":["get sim/cell info > ask location at open cell data: opencellid.org"]
 		}
 	]
 }
