@@ -303,6 +303,15 @@
 			"tags": ["dutch"],
 			"title": "New words",
 			"gained":["veel", "zeer", "nogal", "gisteren", "vandaag", "morgen", "straks", "binnenkort"]
+		},
+		{
+			"date": 1596070436,
+			"duration": 60,
+			"type": "article",
+			"tags": ["android", "kotlin"],
+			"title": "Hidden pitfalls when using Elvis operator",
+			"url": "https://medium.com/google-developer-experts/the-hidden-pitfalls-of-the-elvis-operator-da536ba68161",
+			"gained":["Safe null call and elvis might have complicated call flow"]
 		}
 	]
 }
