@@ -141,7 +141,20 @@
 			"type": "language",
 			"tags": ["dutch"],
 			"title": "New words",
-			"gained":["vertellen", "kijken", "opnemen", "inlegen", "moet"]
+			"words":{
+				"moet":[
+					"Jij moet nu slapen",
+					"Moet je vandaag weken?"
+				],
+				"kijken":[
+					"Wij kijken naar jou en doen wat jij doet",
+					"Jij kijkt naar het kleine gebouw"
+				],
+				"vertellen":[
+					"Vertel me een verhaal!",
+					"Vertel me meer!"
+				]
+			}
 		},
 		{
 			"date": 1594601322,
