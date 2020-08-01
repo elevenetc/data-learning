@@ -302,7 +302,23 @@
 			"type": "language",
 			"tags": ["dutch"],
 			"title": "New words",
-			"gained":["veel", "zeer", "nogal", "gisteren", "vandaag", "morgen", "straks", "binnenkort"]
+			"words":{
+				"heel": [
+					"Sam is een heel slimme jongen"
+				],
+				"zeer": [
+					"Daardoor kan je boodschap een zeer groot bereik krijgen"
+				],
+				"nogal": [
+					"Hij is nogal gevoelig voor kritiek"
+				],
+				"straks": [
+					"Straks deed hij het nog"
+				],
+				"binnenkort": [
+					"Dat gebouw wordt binnenkort gesloopt"
+				]
+			}
 		},
 		{
 			"date": 1596070436,
