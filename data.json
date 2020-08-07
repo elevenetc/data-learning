@@ -341,6 +341,15 @@
 			"title": "Hidden pitfalls when using Elvis operator",
 			"url": "https://medium.com/google-developer-experts/the-hidden-pitfalls-of-the-elvis-operator-da536ba68161",
 			"gained":["Safe null call and elvis might have complicated call flow"]
+		},
+		{
+			"date": 1596809970,
+			"duration": 240,
+			"type": "article",
+			"tags": ["kotlin"],
+			"title": "Kotlin: Don’t just use LET for null check",
+			"url": "https://medium.com/mobile-app-development-publication/kotlin-dont-just-use-let-7e91f544e27f",
+			"gained":["let generates code", "use run instead of let if this is needed", "use let for mutable and nullable objects", "use let to disitnguish name space(oppose to run)", "use let to avoid chained nullable checks", "use to return null from function"]
 		}
 	]
 }
