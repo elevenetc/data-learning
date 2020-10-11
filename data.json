@@ -350,6 +350,15 @@
 			"title": "Kotlin: Don’t just use LET for null check",
 			"url": "https://medium.com/mobile-app-development-publication/kotlin-dont-just-use-let-7e91f544e27f",
 			"gained":["let generates code", "use run instead of let if this is needed", "use let for mutable and nullable objects", "use let to disitnguish name space(oppose to run)", "use let to avoid chained nullable checks", "use to return null from function"]
-		}
+		},
+		{
+			"date": 1602455142,
+			"duration": 60,
+			"type": "article",
+			"tags": ["android", "view", "lifecycle],
+			"title": "Android leak pattern: subscriptions in views",
+			"url": "https://developer.squareup.com/blog/android-leak-pattern-subscriptions-in-views/",
+			"gained":["onDetachedFromWindow might not be called if view was not attached to window"]
+		},
 	]
 }
