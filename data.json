@@ -360,5 +360,14 @@
 			"url": "https://developer.squareup.com/blog/android-leak-pattern-subscriptions-in-views/",
 			"gained":["onDetachedFromWindow might not be called if view was not attached to window"]
 		},
+		{
+			"date": 1604879503,
+			"duration": 480,
+			"type": "article",
+			"tags": ["swift", "ios", "concurrency],
+			"title": "Swift Concurrency Roadmap",
+			"url": "https://forums.swift.org/t/swift-concurrency-roadmap/41611",
+			"gained":["Unlike Kotlin Swift Concurrency introduces Actors"]
+		}
 	]
 }
