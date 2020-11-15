@@ -355,7 +355,7 @@
 			"date": 1602455142,
 			"duration": 60,
 			"type": "article",
-			"tags": ["android", "view", "lifecycle],
+			"tags": ["android", "view", "lifecycle"],
 			"title": "Android leak pattern: subscriptions in views",
 			"url": "https://developer.squareup.com/blog/android-leak-pattern-subscriptions-in-views/",
 			"gained":["onDetachedFromWindow might not be called if view was not attached to window"]
@@ -364,7 +364,7 @@
 			"date": 1604879503,
 			"duration": 480,
 			"type": "article",
-			"tags": ["swift", "ios", "concurrency],
+			"tags": ["swift", "ios", "concurrency"],
 			"title": "Swift Concurrency Roadmap",
 			"url": "https://forums.swift.org/t/swift-concurrency-roadmap/41611",
 			"gained":["Unlike Kotlin Swift Concurrency introduces Actors"]
@@ -373,10 +373,19 @@
 			"date": 1605399395,
 			"duration": 180,
 			"type": "article",
-			"tags": ["android", "kotlin", "di],
+			"tags": ["android", "kotlin", "di"],
 			"title": "DI frameworks comparison",
 			"url": "https://proandroiddev.com/a-dependency-injection-showdown-213339c76515",
 			"gained":["Koin is faster than others, Kotin supports ktor"]
+		},
+		{
+			"date": 1605479507,
+			"duration": 2700,
+			"type": "video",
+			"tags": ["kotlin"],
+			"title": "New Language Features in Kotlin 1.4",
+			"url": "https://www.youtube.com/watch?v=9ihevvUCoG0",
+			"gained":["new fun interface", "enforced by compiler explicit api mode for libraries", "allowed trailing commas", "JvmDefault annotations can be replaced with compiler mode"]
 		}
 	]
 }
