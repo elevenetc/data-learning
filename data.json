@@ -386,6 +386,15 @@
 			"title": "New Language Features in Kotlin 1.4",
 			"url": "https://www.youtube.com/watch?v=9ihevvUCoG0",
 			"gained":["new fun interface", "enforced by compiler explicit api mode for libraries", "allowed trailing commas", "JvmDefault annotations can be replaced with compiler mode"]
+		},
+		{
+			"date": 1605573029,
+			"duration": 60,
+			"type": "article",
+			"tags": ["android", "obfuscation", "debugging"],
+			"title": "Stacktrace Deobfuscation",
+			"url": "https://www.andriydruk.com/post/android-deobfuscation/",
+			"gained":["gui tool to deobfuscate stacktrace: ANDROID_HOME/tools/proguard/lib/proguardgui.jar"]
 		}
 	]
 }
