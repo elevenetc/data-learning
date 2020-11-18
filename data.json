@@ -395,6 +395,14 @@
 			"title": "Stacktrace Deobfuscation",
 			"url": "https://www.andriydruk.com/post/android-deobfuscation/",
 			"gained":["gui tool to deobfuscate stacktrace: ANDROID_HOME/tools/proguard/lib/proguardgui.jar"]
+		},
+		{
+			"date": 1605659195,
+			"duration": 4680,
+			"type": "course",
+			"tags": ["android", "coroutines", "kotlin"],
+			"title": "Kotlin Coroutines: In Depth",
+			"url": "https://www.raywenderlich.com/5443783-kotlin-coroutines-in-depth"]
 		}
 	]
 }
