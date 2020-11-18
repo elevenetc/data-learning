@@ -403,6 +403,15 @@
 			"tags": ["android", "coroutines", "kotlin"],
 			"title": "Kotlin Coroutines: In Depth",
 			"url": "https://www.raywenderlich.com/5443783-kotlin-coroutines-in-depth"
+		},
+		{
+			"date": 1605660944,
+			"duration": 120,
+			"type": "article",
+			"tags": ["android", "DataStore", "SharedPreferences"],
+			"title": "Prefer Storing Data with Jetpack DataStore",
+			"url": "https://android-developers.googleblog.com/2020/09/prefer-storing-data-with-jetpack.html",
+			"gained":["2 types: DataStore: keyvalue storage, ProtoDataStore: typed storage based on ProtoBuffer", "supports migration from SharedPreferences"]
 		}
 	]
 }
