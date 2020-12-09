@@ -412,6 +412,15 @@
 			"title": "Prefer Storing Data with Jetpack DataStore",
 			"url": "https://android-developers.googleblog.com/2020/09/prefer-storing-data-with-jetpack.html",
 			"gained":["2 types: DataStore: keyvalue storage, ProtoDataStore: typed storage based on ProtoBuffer", "supports migration from SharedPreferences"]
+		},
+		{
+			"date": 1607471868,
+			"duration": 300,
+			"type": "article",
+			"tags": ["android", "reactive", "flow"],
+			"title": "Substituting Android’s LiveData: StateFlow or SharedFlow?",
+			"url": "https://proandroiddev.com/should-we-choose-kotlins-stateflow-or-sharedflow-to-substitute-for-android-s-livedata-2d69f2bd6fa5",
+			"gained":["Flow is stateless", "Flow is cold", "shareIn: multiple subs; stateIn: no custom stream logic like repeated values, replay last value for new subs, init value required"]
 		}
 	]
 }
