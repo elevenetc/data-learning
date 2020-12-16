@@ -421,6 +421,15 @@
 			"title": "Substituting Android’s LiveData: StateFlow or SharedFlow?",
 			"url": "https://proandroiddev.com/should-we-choose-kotlins-stateflow-or-sharedflow-to-substitute-for-android-s-livedata-2d69f2bd6fa5",
 			"gained":["Flow is stateless", "Flow is cold", "shareIn: multiple subs; stateIn: no custom stream logic like repeated values, replay last value for new subs, init value required"]
+		},
+		{
+			"date": 1608155723,
+			"duration": 180,
+			"type": "article",
+			"tags": ["android", "gradle"],
+			"title": "Stop using Gradle buildSrc. Use composite builds instead",
+			"url": "https://proandroiddev.com/stop-using-gradle-buildsrc-use-composite-builds-instead-3c38ac7a2ab3",
+			"gained":["buildSrc: common scripts and dependencies", "changes in buildSrc makes the whole project to become out of date"]
 		}
 	]
 }
