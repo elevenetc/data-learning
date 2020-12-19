@@ -430,6 +430,15 @@
 			"title": "Stop using Gradle buildSrc. Use composite builds instead",
 			"url": "https://proandroiddev.com/stop-using-gradle-buildsrc-use-composite-builds-instead-3c38ac7a2ab3",
 			"gained":["buildSrc: common scripts and dependencies", "changes in buildSrc makes the whole project to become out of date"]
+		},
+		{
+			"date": 1608401229,
+			"duration": 180,
+			"type": "article",
+			"tags": ["learning"],
+			"title": "Use the Dreyfus Model to Learn New Skills",
+			"url": "https://collegeinfogeek.com/dreyfus-model/",
+			"gained":["Understand your level > follow whats required to do and move to the next level"]
 		}
 	]
 }
